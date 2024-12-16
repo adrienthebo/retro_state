@@ -1,8 +1,8 @@
 {
   "domain": "historic_template",
   "name": "Historic Template",
-  "documentation": "https://gitlab.com/jbeckman/retro_state/blob/master/README.md",
+  "documentation": "https://github.com/adrienthebo/retro_state/blob/main/README.md",
   "dependencies": [],
-  "codeowners": ["@jbeckman"],
+  "codeowners": ["@adrienthebo"],
   "requirements": []
 }
